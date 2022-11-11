@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+  margin: 0;
+  padding: 0;
+}
+
+a{
+  text-decoration: none;
+}
+
+.big-text{
+  font-family: 'Montserrat';
+  font-size: 2rem;
+  color: white;
+}
+
+.element-links{
+  padding: 2% 0 0 0;
+}
+
+.e-link-item{
+  display: inline-block;
+  list-style: none;
+  margin: 0 2%;
+}
+
+.die-top{
+  margin: 2% 1% 0 1%;
+}
+
+.die{
+  margin: 0 1% 0 1%;
+  text-align: center;
+  display: inline-block;
+  list-style: none;
+}
+
+.die p{
+  margin-top: 1rem;
+  font-family: 'Raleway';
+  font-size: 1.5rem;
+  color: white;
+}
+
